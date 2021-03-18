@@ -16,7 +16,7 @@ This was my ICS2O Final Project, and it took 2 months to develop. It's a 2D RPG 
 
 # Notes
  - Special thanks to Darren for working on the character and map mechanics, and Sanjay for the inventory. We stuck together and worked on this difficult project over the course of 2 months.
- - This is an incomplete version because Darren refused to give me the finished version for some strange reason. He kept trolling me by sending other random files ¯\\_(ツ)_/¯
+ - This is an incomplete version because Darren refused to give me the finished version. He kept trolling me by sending other random files.
  - We decided on the name of this game by using a random video game name generator (no affiliation with Fortnite)
  - Don't use Youtube to MP3 websites on school Wi-Fi. Most of them are blocked and if you do manage to find one, conversion is very slow (as we learned the hard way).
  - Necromancer go brrrr
