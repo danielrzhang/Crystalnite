@@ -1,0 +1,3 @@
+Potion Of Health 1;25;healthPot1.png;True
+Potion Of Health 2;50;healthPot2.png;True
+Potion Of Health 3;100;healthPot3.png;True

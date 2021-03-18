@@ -1,0 +1,14 @@
+Signs:
+AreaNumber, GridPositionX, GridPositionY, TextToSay
+
+Chests:
+AreaNumber, GridPositionX, GridPositionY, List_of_Items(Separated by /), Gold amount
+
+Swords:
+Name, Effect(IntegerValue), Sprite
+
+Selling Villagers:
+AreaNumber, x,y, Name, Direction, Sprite Folder Name, Dialogue_Lines(Separated by /), List_of_Items(Separated by / with name, stock and cost separated by:)
+
+sellingVillager
+AreaNumber, Name, 

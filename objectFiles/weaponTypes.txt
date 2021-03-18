@@ -1,0 +1,10 @@
+Wooden Sword;10;woodenSword.png;True
+Iron Sword;20;ironSword.png;True
+Flame Sword;30;fireSword.png;True
+Crystal Sword;100;crystalSword.png;False
+Bloody Dagger;30;bloodDagger.png;True
+Power Glove;30;powerGlove.png;False
+Rainbow Sword;70;rainbowSword.png;True
+Not Master Sword;80;masterSword.png;True
+Iron Claymore;30;claymore.png;True
+Axe;20;axe.png;False

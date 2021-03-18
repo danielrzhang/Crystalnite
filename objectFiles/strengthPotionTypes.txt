@@ -1,0 +1,3 @@
+Potion Of Strength 1;10;strengthPot1.png
+Potion Of Strength 2;20;strengthPot2.png
+Potion Of Strength 3;30;strengthPot3.png

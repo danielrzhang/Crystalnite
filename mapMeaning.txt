@@ -1,0 +1,18 @@
+# = Normal tree 
+^ = Evergreen tree
++ = Obstacle spaces caused by other symbols(ex. the other spaces a tree fills up)
+. = Grass
+, = Snow
+! = Charred dirt
+/ = path
+% = water
+
+T = Cuttable Trees
+S = Sign
+C = Chest
+O = Moving Rock
+K = Rock
+L = Small Tree
+
+$ = Selling Villager
+G = Giving Villager
