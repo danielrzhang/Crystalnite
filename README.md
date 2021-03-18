@@ -10,6 +10,10 @@ This was my ICS2O Final Project, and it took 2 months to develop. It's a 2D RPG 
  - Enter the dropdown menu and select "Download ZIP".
  - Once download is complete, extract the files from the ZIP File.
 
+# Dependencies
+ - [Python 3](https://www.python.org/downloads/) (3.6 at the very minimum)
+ - [PyGame](https://www.pygame.org/wiki/GettingStarted)
+
 # Notes
  - Special thanks to Darren for working on the character and map mechanics, and Sanjay for the inventory. We stuck together and worked on this difficult project over the course of 2 months.
  - This is an incomplete version because Darren refused to give me the finished version for some strange reason. He kept trolling me by sending other random files ¯\_(ツ)_/¯
