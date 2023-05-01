@@ -11,5 +11,5 @@ This was my ICS2O Final Project, and it took 2 months to develop. It's a 2D RPG 
  - Once download is complete, extract the files from the ZIP File.
 
 # Dependencies
- - [Python 3](https://www.python.org/downloads/) (3.6 at the very minimum)
+ - [Python 3](https://www.python.org/downloads/) (3.6+)
  - [PyGame](https://www.pygame.org/wiki/GettingStarted)
