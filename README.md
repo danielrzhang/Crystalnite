@@ -1,6 +1,5 @@
 # Crystalnite
-
-This was my ICS2O Final Project, and it took 2 months to develop. It's a 2D RPG (Role-Playing Game) similar to Undertale where you control a character, fight mobs, and obtain the crystal at the end. This project contains most of the concepts taught in ICS2O, including variables, if-else statements, loops, functions, GUI, and some extra content from outside of the curriculum. I worked in a group with 2 other students to get the project done, and I was responsible for the attack GUI and graphics design. 
+Crystalnite is an immersive 2D RPG adventure game, similar to the popular game Undertale, where you embark on a thrilling journey. Engage in exhilarating battles againt formidable foes, harness your strategic prowess, and hone your skills to emerge victorious. Your ultimate objective? Acquire the coveted crystal that lies at the game's climactic conclusion. 
 
 # Editor
  - Coded with IDLE
