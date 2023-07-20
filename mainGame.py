@@ -1,11 +1,3 @@
-########################################################################
-#File Name: CrystalNite.py
-#Description: A cool RPG
-#Authors: Darren Lo, Daniel Zhang and Sanjay Rajendran
-#Date: Dec 16, 2019
-#######################################################################
-#pylint: disable = E1101
-
 import pygame
 from math import floor, ceil
 from random import randint
