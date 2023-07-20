@@ -11,7 +11,7 @@ Crystalnite is an immersive 2D RPG adventure game, similar to the popular game U
 # Controls
 * **W, A, S, D:** Move the character in the corresponding direction.
 * **Spacebar:** Action button for the in-game character.
-* **Left Mouse Button:** Perform actions on the hotbar and inventory.
+* **Left Mouse Button:** Perform actions on the hotbar, inventory, and battle UI.
 
 # Installation
 1. Ensure you have Python 3.6 or higher installed on your system. Download it [here](https://www.python.org/downloads/).
